@@ -5,4 +5,4 @@ Linear Regression is when you have a group of points on a graph, and you find a 
 
 In this project, you’ll combine your knowledge of loops, lists, and arithmetic to create a function that will find a line of best fit when given a set of data.
 
-Click the link in the about section to go straight to the website!
+
